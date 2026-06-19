@@ -9,6 +9,8 @@ def divide(a, b):
 
 def multi(a,b) :
    return a*b
-
+def power(a,b):
+    return a**b
 #Add more operations as needed
 #Add input and output functions in utility.py
+#HEllo, change
