@@ -2,28 +2,28 @@
 # PHASE 1 - PROJECT SETUP
 # ==========================================================
 
-# [ ] Create project folder
-# [ ] Create main.py
-# [ ] Create operations.py
-# [ ] Create history.py
-# [ ] Create utils.py
-# [ ] Create history.txt
-# [ ] Create README.md
-# [ ] Initialize Git Repository
-# [ ] Create GitHub Repository
-# [ ] First Commit
+# [x] Create project folder
+# [x] Create main.py
+# [x] Create operations.py
+# [x] Create history.py
+# [x] Create utils.py
+# [x] Create history.txt
+# [x] Create README.md
+# [x] Initialize Git Repository
+# [x] Create GitHub Repository
+# [x] First Commit
 
 # ==========================================================
 # PHASE 2 - BASIC CALCULATOR
 # ==========================================================
 
-# [ ] Addition
-# [ ] Subtraction
-# [ ] Multiplication
-# [ ] Division
+# [x] Addition
+# [x] Subtraction
+# [x] Multiplication
+# [x] Division
 # [ ] Modulus
 # [ ] Floor Division
-# [ ] Power
+# [x] Power
 
 # ==========================================================
 # PHASE 3 - ADVANCED OPERATIONS
