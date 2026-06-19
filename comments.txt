@@ -1,0 +1,168 @@
+# ==========================================================
+# PHASE 1 - PROJECT SETUP
+# ==========================================================
+
+# [ ] Create project folder
+# [ ] Create main.py
+# [ ] Create operations.py
+# [ ] Create history.py
+# [ ] Create utils.py
+# [ ] Create history.txt
+# [ ] Create README.md
+# [ ] Initialize Git Repository
+# [ ] Create GitHub Repository
+# [ ] First Commit
+
+# ==========================================================
+# PHASE 2 - BASIC CALCULATOR
+# ==========================================================
+
+# [ ] Addition
+# [ ] Subtraction
+# [ ] Multiplication
+# [ ] Division
+# [ ] Modulus
+# [ ] Floor Division
+# [ ] Power
+
+# ==========================================================
+# PHASE 3 - ADVANCED OPERATIONS
+# ==========================================================
+
+# [ ] Square
+# [ ] Cube
+# [ ] Square Root
+# [ ] Cube Root
+# [ ] Factorial
+# [ ] Percentage
+# [ ] Absolute Value
+
+# ==========================================================
+# PHASE 4 - MENU SYSTEM
+# ==========================================================
+
+# [ ] Create Main Menu
+# [ ] Infinite Loop
+# [ ] User Choice Handling
+# [ ] Exit Option
+
+# Example:
+#
+# ===== SMART CALCULATOR =====
+# 1. Addition
+# 2. Subtraction
+# ...
+# 14. Exit
+
+# ==========================================================
+# PHASE 5 - HISTORY MANAGEMENT
+# ==========================================================
+
+# [ ] Save Calculation
+# [ ] View History
+# [ ] Clear History
+# [ ] Delete Last Record (Bonus)
+
+# Example:
+#
+# 10 + 20 = 30
+# 15 * 5 = 75
+
+# ==========================================================
+# PHASE 6 - ERROR HANDLING
+# ==========================================================
+
+# [ ] Invalid Input
+# [ ] Divide By Zero
+# [ ] Negative Factorial
+# [ ] Invalid Menu Choice
+# [ ] File Not Found
+
+# Use:
+# try
+# except
+# finally (optional)
+
+# ==========================================================
+# PHASE 7 - UTILITY FUNCTIONS
+# ==========================================================
+
+# utils.py
+
+# [ ] get_number()
+# [ ] print_menu()
+# [ ] print_line()
+# [ ] goodbye_message()
+# [ ] confirm_action()
+
+# ==========================================================
+# PHASE 8 - CLEAN CODE
+# ==========================================================
+
+# operations.py
+#
+# add()
+# subtract()
+# multiply()
+# divide()
+# modulus()
+# power()
+# square()
+# cube()
+# square_root()
+# cube_root()
+# factorial()
+# percentage()
+# absolute()
+
+# history.py
+#
+# save_history()
+# show_history()
+# clear_history()
+# delete_last_history()
+
+# main.py
+#
+# Only:
+# - Menu
+# - Function Calls
+# - Program Flow
+
+# ==========================================================
+# PHASE 9 - README
+# ==========================================================
+
+# [ ] Project Description
+# [ ] Features
+# [ ] Folder Structure
+# [ ] Tech Stack
+# [ ] How To Run
+# [ ] Future Improvements
+
+# ==========================================================
+# PHASE 10 - BONUS FEATURES (OPTIONAL)
+# ==========================================================
+
+# [ ] Timestamp In History
+# [ ] Colored Terminal Output
+# [ ] Scientific Calculator
+# [ ] Memory Store
+# [ ] Memory Recall
+# [ ] Last Answer Recall
+# [ ] Keyboard Shortcuts
+
+# ==========================================================
+# FINAL CHECKLIST
+# ==========================================================
+
+# [ ] Modular Code
+# [ ] No Duplicate Code
+# [ ] Proper Function Names
+# [ ] Exception Handling Everywhere
+# [ ] History Working
+# [ ] README Completed
+# [ ] GitHub Repository Updated
+# [ ] Meaningful Git Commits
+# [ ] Code Properly Formatted
+# [ ] Tested Successfully
